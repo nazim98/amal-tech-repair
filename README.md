@@ -114,4 +114,4 @@ With Amal Tech Repair, users can get their devices fixed at their convenience wi
    - [Dart Documentation](https://pub.dev/)
 
 3. **Weekly Progress Report**
-   - [Weekly Progress Report](https://drive.google.com/file/d/1_Uwadp-VyH9iY3AVeReqLr_6lJfBuvqM/view?usp=sharing)
+   - [Weekly Progress Report]()
