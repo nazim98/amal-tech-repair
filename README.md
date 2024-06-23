@@ -4,8 +4,8 @@
 
 Welcome to the GitHub repository for the CSCI 4311 final assessment on flutter mobile application development. This document contains the detailed breakdown of contributions from each team member.
 
-### Title
-Amal Tech Repair = Amal Tech Repair is a mobile application that provides on-demand technical repair services for a variety of consumer electronics and gadgets. 
+### Title: Amal Tech Repair
+Amal Tech Repair is a mobile application that provides on-demand technical repair services for a variety of consumer electronics and gadgets. 
 The app connects users with a network of certified and vetted repair technicians who can visit 
 the user's location and perform repairs for a range of devices, including smartphones, tablets, laptops, smart home devices, and more.
 
