@@ -18,7 +18,7 @@ the user's location and perform repairs for a range of devices, including smartp
 
 | Name                            | Matric Number | Assigned Tasks                                            | Participation |
 |---------------------------------|---------------|-----------------------------------------------------------|---------------|
-| Wan Mohd Nazim Bin Wan Muhamad Saidin | 2114261 |   | 100% |
+| Wan Mohd Nazim Bin Wan Muhamad Saidin |    2114261 |   | 100% |
 |        |       |             | 100%          |
 |        |      |  | 100%          |
 
