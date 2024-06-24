@@ -113,5 +113,5 @@ With Amal Tech Repair, users can get their devices fixed at their convenience wi
 2. **Dart Official Documentation:** Provides detailed information about Dart, including user guides, tutorials, and technical documentation.
    - [Dart Documentation](https://pub.dev/)
 
-3. **Weekly Progress Report**
+3. **Weekly Progress Report:**
    - [Weekly Progress Report]()
