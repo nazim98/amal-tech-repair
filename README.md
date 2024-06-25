@@ -9,11 +9,6 @@ Amal Tech Repair is a mobile application that provides on-demand technical repai
 The app connects users with a network of certified and vetted repair technicians who can visit 
 the user's location and perform repairs for a range of devices, including smartphones, tablets, laptops, smart home devices, and more.
 
-### Group Members:
-- Wan Mohd Nazim Bin Wan Muhamad Saidin (2114261) - Group Leader
-- 
-- 
-
 ### Work Distribution:
 
 | Name                            | Matric Number | Assigned Tasks                                            | Participation |
