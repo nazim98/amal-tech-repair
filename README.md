@@ -13,7 +13,7 @@ the user's location and perform repairs for a range of devices, including smartp
 
 | Name                            | Matric Number | Assigned Tasks                                            | Participation |
 |---------------------------------|---------------|-----------------------------------------------------------|---------------|
-| Wan Mohd Nazim Bin Wan Muhamad Saidin | 2114261 |   | 100% |
+| Wan Mohd Nazim Bin Wan Muhamad Saidin | 2114261 | logo, explore page, advertise page, me page, edit service page, database for service, CRUD for service | 100% |
 | Muhammad Khairunas bin Noorizam | 2112383 |             | 100%          |
 |    Ezhad Eminuddin bin Karim    |  2218327    |  | 100%          |
 
