@@ -23,76 +23,69 @@ Welcome to the GitHub repository for the CSCI 4311 final assessment on flutter m
 - [References](#references)
 
 ## Introduction 
-Amal Tech Repair is a mobile application that provides on-demand technical repair services for a variety of consumer electronics and gadgets. 
-The app connects users with a network of certified and vetted repair technicians who can visit 
-the user's location and perform repairs for a range of devices, including smartphones, tablets, laptops, smart home devices, and more.
+Amal Tech Repair is a versatile mobile application designed to facilitate on-demand technical repair services for a wide range of consumer electronics and gadgets. The app serves as a comprehensive platform where users can advertise services, chat with other users or service providers, and access a variety of features to streamline the repair process.
 
-- Convenient booking and scheduling of repair appointments
-- Real-time tracking of the repair technician en route to the user's location
-- Transparent pricing with no hidden fees
-- Genuine replacement parts and manufacturer-approved repair methods
-- Warranty on all repairs performed by Amal's certified technicians
-- 24/7 customer support for any issues or questions
+Key Features:
+- Service Advertisement: Users can advertise their repair services, making it easier to connect with potential clients.
+- In-App Chat: The app allows for seamless communication between users and service providers, ensuring all queries and details are addressed promptly.
+- User Authentication: Secure login and registration functionalities ensure that only verified users can access the services.
+- Transparent Pricing: Users can view detailed pricing information for different repair services, eliminating any hidden fees.
+- Contact Information: The app provides contact details of service providers for direct communication.
+- Service Details: Comprehensive information on the types of repair services offered, ensuring users know exactly what is available.
+- Aesthetically Pleasing Interface: A user-friendly and visually appealing design enhances the overall user experience.
 
-The app aims to provide a hassle-free repair experience for users by eliminating the need to travel to a repair shop and wait for service. 
-With Amal Tech Repair, users can get their devices fixed at their convenience without disrupting their daily routine. The application is available for both iOS and Android platforms.
+The Amal Tech Repair app aims to provide a hassle-free repair experience by offering convenient booking and scheduling, eliminating the need to visit a repair shop. Users can have their devices fixed at their convenience, without disrupting their daily routine. Available for both iOS and Android platforms, the application ensures that users can access high-quality repair services wherever they are.
 
 ## Objective
-**1. Convenience and Accessibility:**
-- To provide users with a convenient, on-demand solution for getting their electronic devices repaired without the need to visit a physical repair shop.
-- To make professional technical repair services easily accessible to customers in their local area.
+**1. Comprehensive Service Offering:**
+- To enable users to advertise their repair services, enhancing visibility and connectivity within the community.
+- To facilitate seamless in-app communication between users and service providers, ensuring all queries and details are addressed promptly.
 
-**2. Time and Cost Savings:**
+**2. Convenience and Accessibility:**
+- To provide users with an on-demand solution for getting their electronic devices repaired without the need to visit a physical repair shop.
+- To offer professional technical repair services that are easily accessible to customers in their local area, complete with location tracking of service providers.
+
+**3. Time and Cost Savings:**
 - To save users' time by eliminating the need to travel to a repair shop and wait for service.
-- To offer transparent and competitive pricing for repair services, helping customers avoid hidden fees or inflated costs.
+- To offer transparent and competitive pricing for repair services, allowing customers to view detailed cost information upfront and avoid hidden fees.
 
-**3. Quality Assurance:**
-- To ensure all repairs are performed by certified, vetted technicians using genuine replacement parts and manufacturer-approved repair methods.
-- To provide a warranty on all repairs completed through the Amal Tech Repair service, giving customers peace of mind.
-
-**4. Improved Customer Experience:**
-- To deliver a seamless, hassle-free repair experience for users, from booking the appointment to receiving the repaired device.
+**4. Enhanced User Experience:**
+- To deliver a user-friendly, visually appealing interface that enhances the overall experience, from booking an appointment to receiving the repaired device.
 - To provide 24/7 customer support to address any questions or concerns throughout the repair process.
 
-**5. Expansion of Repair Services:**
-- To continuously expand the range of devices and repair services offered through the Amal Tech Repair app, catering to the evolving needs of consumers.
+**5. Information Accessibility:**
+- To allow users to access essential details such as contact information, pricing, and the types of repair services offered.
+- To keep users informed about the location and status of their service providers in real time.
+
+**6. Continuous Improvement:**
+- To expand the range of devices and repair services offered through the Amal Tech Repair app, catering to the evolving needs of consumers.
 - To establish Amal Tech Repair as a trusted and reliable solution for all types of electronic device repairs.
 
 ## Features and Functionalities
-**1. Device Repair Services:**
+**1. Service Advertising and Communication:**
+- Allows users to advertise their repair services within the app, enhancing visibility and networking opportunities.
+- Facilitates in-app chat between users and service providers to discuss repair details, pricing, and other inquiries.
+- Provides a platform for service providers to showcase their expertise and build trust with potential clients.
+
+**2. Device Repair Services:**
 - Supports a wide range of electronic devices, including smartphones, tablets, laptops, smartwatches, and various smart home devices.
 - Offers a comprehensive list of repair services, such as screen replacement, battery replacement, charging port repair, software troubleshooting, and more.
 - Allows users to easily select the device model and the specific repair service required.
 
-**2. On-Demand Booking and Scheduling:**
-- Enables users to book repair appointments directly through the app, selecting their preferred date, time, and location.
-- Provides real-time availability of technicians and the ability to choose from multiple appointment slots.
-- Sends notifications and reminders to users about their scheduled repair appointments.
-
-**3. Repair Technician Management:**
-- Maintains a network of certified and vetted repair technicians who are trained to handle a variety of device repairs.
-- Assigns the most suitable technician based on the user's location, device type, and repair service needed.
-- Allows users to track the repair technician's location and estimated time of arrival.
-
-**4. Transparent Pricing and Payment:**
+**3. Transparent Pricing and Payment:**
 - Displays upfront, transparent pricing for each repair service, with no hidden fees or charges.
 - Offers multiple payment options, including credit/debit cards, mobile wallets, and in-app payment integration.
 - Provides a detailed breakdown of the repair cost, including parts and labor, before the user confirms the booking.
 
-**5. Quality Assurance and Warranty:**
-- Ensures all repairs are performed using genuine replacement parts and manufacturer-approved repair methods.
-- Offers a warranty on the repairs carried out by Amal's certified technicians, providing customers with additional peace of mind.
-- Allows users to provide feedback and rate the repair service experience.
+**4. Information Accessibility:**
+- Allows users to access essential details such as contact information, pricing, and the types of repair services offered.
+- Provides real-time tracking of the repair technician en route to the user's location.
+- Displays comprehensive information about the service provider, including their contact number and service offerings.
 
-**6. Customer Support:**
-- Provides 24/7 customer support through multiple channels, including in-app chat, email, and a dedicated helpline.
-- Handles any inquiries, concerns, or issues related to the repair process, parts, or technician service.
-- Addresses customer complaints and ensures a satisfactory resolution.
+**5. User Authentication:**
+- Supports login and registration functionalities for users to create and manage their profiles.
+- Ensures secure user authentication and data privacy through industry-standard security measures.
 
-**7. Reporting and Analytics:**
-- Collects and analyzes data on repair requests, customer feedback, technician performance, and service trends.
-- Generates reports to help the Amal Tech Repair team optimize operations, improve service quality, and make data-driven decisions.
-  
 ## Screen Navigation and Widgets
 
 ## Sequence Diagram
