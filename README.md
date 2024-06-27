@@ -18,6 +18,7 @@ Welcome to the GitHub repository for the CSCI 4311 final assessment on flutter m
 - [Introduction](#introduction)
 - [Objective](#objective)
 - [Features and Functionalities](#features-and-functionalities)
+- [Packages and Plugins](#packages-and-plugins)
 - [Screen Navigation and Widgets](#screen-navigation-and-widgets)
 - [Sequence Diagram](#sequence-diagram)
 - [Weekly Progress Report](#weekly-progress-report)
