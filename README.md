@@ -89,9 +89,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 ## Packages and Plugins
 
-**Cupertino Icons**
-- The `cupertino_icons` package provides the Cupertino Icons font, which is used for iOS-style icons. This package is useful for maintaining a consistent look and feel for iOS applications.
-
 **Firebase Core**
 - The `firebase_core` package is the foundational Firebase library for Flutter. It is necessary for initializing Firebase services in the application, providing a base to integrate various Firebase features.
 
@@ -109,9 +106,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 **Flutter Launcher Icons Configuration**
 - The `flutter_launcher_icons` package is a flexible command-line tool that simplifies updating, customizing, and optionally reverting your Flutter app's launcher icons for various platforms.
-
-**Flutter Lints**
-- The `flutter_lints` package includes a set of recommended linting rules to encourage good coding practices. These rules help maintain code quality and readability by enforcing consistent coding standards.
 
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
