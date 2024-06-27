@@ -87,19 +87,79 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 - Ensures secure user authentication and data privacy through industry-standard security measures.
 
 ## Screen Navigation and Widgets
-**1. Screen Navigation
-1.1 Login
-   1.1.1
-1.2 Explore Page
-   
-1.3 Advertise Page
+**1. Screen Navigation**
+-1.1 advertise page
+   -fill in the service form
+   -submit the service form
+   -the form will go to explore page & me page
+-1.2 chat page
+   - you can send & receive a message on this page
+   - 
+-1.3 edit_service page
+   - you can edit your service here
+   - 
 
-1.4 Chat Page
-   1.4.1 home chat page
-      1.4.1.1 Drawer 
-         1.4.1.1.1 Setting Page
-   1.4.2 individual chat page
-1.5 Me Page
+-1.4 explore page
+   - you can scroll through the services that other users offer.
+   - 
+   
+-1.5 home page
+   - a page that shows all users of this app
+   - you can chat with the user that you want to deal.
+   - 
+
+-1.6 login page
+   - a default page that will be shown when you open the app
+   - there are two textfields: 1. email 2. password, which will match with the existing account in the firebase authentication
+   - if you do not have an account, you can click register now
+
+-1.7 main page
+   - a page that shows all important page likes:
+     -1.Explore page
+     -2.Advertise page
+     -3.chat page
+     -4.me page
+     -5.settings page
+
+-1.8 me page
+   - show all your services
+   - each service can be edited by clicking the pen icon
+   - each service can be deleted by long pressing the service bar
+   - 
+
+-1.9 register page
+   - you can register your email and password here
+   - the data will be kept in a database
+   - you can go to the login page if you have the account
+
+-1.10 settings page
+   - you can toggle mode from light to dark and vice versa.
+   -
+
+**2. Widgets**
+
+-1.chat bubble
+   - bubble that contain chat between two user
+   - the current is green while the receiver is grey
+
+-2.custom button
+   - button that has been used on certain pages
+   -
+
+-4. custom card
+   - a container that shows user services
+-5.my drawer
+   - a drawer that can be opened by clicking the drawer icon
+   - you can sign out here
+
+-6. my textfield
+   - textfield widget that has been used in login and registers page
+
+-7. search bar
+   - you can search for any user that meets your desire
+   - 
+-8. user tile
+   - have container of all users's email
 
 ## Sequence Diagram
 ![image](https://github.com/nazim98/amal-tech-repair/assets/134998873/a8598bbe-6413-4ecf-9d76-a4333ce52873)
