@@ -170,4 +170,4 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
    - [Dart Documentation](https://pub.dev/)
 
 3. **Weekly Progress Report:**
-   - [Weekly Progress Report]()
+   - [Weekly Progress Report](https://drive.google.com/file/d/11yvdfobv34lV1ZaJHd1kfa-LU4qGKUeJ/view)
