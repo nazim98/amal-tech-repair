@@ -161,6 +161,7 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
    - each service can be deleted by long pressing the service bar
 
    ![me](https://github.com/nazim98/amal-tech-repair/assets/118235122/efa327f5-0bcb-4274-a7e4-765744df4986)
+   ![edit service](https://github.com/nazim98/amal-tech-repair/assets/118235122/2ac0eb1b-2538-4991-a529-f5e20c410f16)
 
 -1.9 register page
    - you can register your email and password here
@@ -180,25 +181,39 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 -1.chat bubble
    - bubble that contain chat between two user
    - the current is green while the receiver is grey
+     
+     ![chat bubble](https://github.com/nazim98/amal-tech-repair/assets/118235122/44e9acc8-e996-4b36-a2fa-aacc66d96f74)
 
 -2.custom button
    - button that has been used on certain pages
 
+     ![custom button](https://github.com/nazim98/amal-tech-repair/assets/118235122/cdf176da-f6f2-4f01-9482-03986f58ea5a)
+
 -4. custom card
    - a container that shows user services
+
+     ![custom card](https://github.com/nazim98/amal-tech-repair/assets/118235122/9a9cb088-4019-43eb-9aa7-03c3ef5eea50)
      
 -5.my drawer
    - a drawer that can be opened by clicking the drawer icon
    - you can sign out here
 
+     ![my drawer](https://github.com/nazim98/amal-tech-repair/assets/118235122/565e873e-4bc1-4efb-81ba-edb7f78b1185)
+
 -6. my textfield
    - textfield widget that has been used in login and registers page
 
+     ![my textfield](https://github.com/nazim98/amal-tech-repair/assets/118235122/9549043f-ad2d-41f9-9941-d4ec57e8315f)
+
 -7. search bar
    - you can search for any user that meets your desire
-   - 
+
+     ![search bar](https://github.com/nazim98/amal-tech-repair/assets/118235122/0eda3a08-c1db-49c4-9a5e-05fc2b3e49b0)
+     
 -8. user tile
    - have container of all users's email
+
+     ![user tile](https://github.com/nazim98/amal-tech-repair/assets/118235122/c7addd2a-b793-433f-994c-24aa2bfddbb3)
 
 ## Sequence Diagram
 ![image](https://github.com/nazim98/amal-tech-repair/assets/134998873/a8598bbe-6413-4ecf-9d76-a4333ce52873)
