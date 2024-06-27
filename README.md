@@ -108,7 +108,7 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 - The `firebase_auth` package enables Firebase Authentication in the application. It provides various methods for user authentication, including email/password, social media logins, and more.
 
 **Flutter Launcher Icons Configuration**
-- This section configures the `flutter_launcher_icons` package. It specifies the icon settings for both Android and iOS platforms, including the path to the image asset and the minimum SDK version for Android.
+- The `flutter_launcher_icons` package is a flexible command-line tool that simplifies updating, customizing, and optionally reverting your Flutter app's launcher icons for various platforms.
 
 **Flutter Lints**
 - The `flutter_lints` package includes a set of recommended linting rules to encourage good coding practices. These rules help maintain code quality and readability by enforcing consistent coding standards.
