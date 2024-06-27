@@ -87,6 +87,25 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 - Supports login and registration functionalities for users to create and manage their profiles.
 - Ensures secure user authentication and data privacy through industry-standard security measures.
 
+## Packages and Plugins
+**Firebase Core**
+- The `firebase_core` package is the foundational Firebase library for Flutter. It is necessary for initializing Firebase services in the application, providing a base to integrate various Firebase features.
+
+**Intl**
+- The `intl` package is used for internationalization and localization. It helps in formatting dates, numbers, and messages according to different locales, ensuring the application can support multiple languages and regional formats.
+
+**Cloud Firestore**
+- The `cloud_firestore` package allows the application to interact with the Cloud Firestore database. It is a scalable, flexible database from Firebase, ideal for storing and syncing data between users in real-time.
+
+**Provider**
+- The `provider` package is a popular state management solution for Flutter applications. It offers a way to manage and propagate state changes efficiently across the widget tree.
+
+**Firebase Authentication**
+- The `firebase_auth` package enables Firebase Authentication in the application. It provides various methods for user authentication, including email/password, social media logins, and more.
+
+**Flutter Launcher Icons Configuration**
+- The `flutter_launcher_icons` package is a flexible command-line tool that simplifies updating, customizing, and optionally reverting your Flutter app's launcher icons for various platforms.
+
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
 
