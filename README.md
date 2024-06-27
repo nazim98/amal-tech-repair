@@ -20,6 +20,7 @@ Welcome to the GitHub repository for the CSCI 4311 final assessment on flutter m
 - [Features and Functionalities](#features-and-functionalities)
 - [Screen Navigation and Widgets](#screen-navigation-and-widgets)
 - [Sequence Diagram](#sequence-diagram)
+- [Weekly Progress Report](#weekly-progress-report)
 - [References](#references)
 
 ## Introduction 
@@ -160,14 +161,17 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 ## Sequence Diagram
 ![image](https://github.com/nazim98/amal-tech-repair/assets/134998873/a8598bbe-6413-4ecf-9d76-a4333ce52873)
 
+## Weekly Progress Report:
+   - [Weekly Progress Report](https://drive.google.com/file/d/11yvdfobv34lV1ZaJHd1kfa-LU4qGKUeJ/view)
 
 ## References
 
-1. **Flutter Official Documentation:** Provides detailed information about Flutter, including user guides, tutorials, and technical documentation.
-   - [Flutter Documentation](https://docs.flutter.dev/)
+Firebase. (n.d.). Firebase documentation. Retrieved June 27, 2024, from https://firebase.google.com/docs
 
-2. **Dart Official Documentation:** Provides detailed information about Dart, including user guides, tutorials, and technical documentation.
-   - [Dart Documentation](https://pub.dev/)
+Flutter. (n.d.). Flutter documentation. Retrieved June 27, 2024, from https://docs.flutter.dev/
 
-3. **Weekly Progress Report:**
-   - [Weekly Progress Report](https://drive.google.com/file/d/11yvdfobv34lV1ZaJHd1kfa-LU4qGKUeJ/view)
+pub.dev. (n.d.). pub.dev. Retrieved June 27, 2024, from https://pub.dev/
+
+Radar. (n.d.). Radar Flutter SDK documentation. Retrieved June 27, 2024, from https://radar.com/documentation/sdk/flutter
+
+Material Design. (n.d.). Material 3 for Flutter. Retrieved June 27, 2024, from https://m3.material.io/develop/flutter
