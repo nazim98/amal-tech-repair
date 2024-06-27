@@ -64,6 +64,25 @@
     },
     {
       "client_info": {
+        "mobilesdk_app_id": "1:854140379446:android:04a7b910c7a4ffa3465397",
+        "android_client_info": {
+          "package_name": "com.example.repair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8hxiKc_Kmzg4qAAyoVgCuxl6MjG5nkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:854140379446:android:f15b7e215725ebb8465397",
         "android_client_info": {
           "package_name": "com.repair.app"
