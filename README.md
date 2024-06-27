@@ -114,8 +114,9 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
    -page for advertise user's services
    ![advertise page before fill in](https://github.com/nazim98/amal-tech-repair/assets/118235122/acc030ce-28ef-4744-a74f-b3cb8043b968)
 
--1.2 chat page
+-1.2 individual chat page
    - you can send & receive a message on this page
+     ![individual chat page 1](https://github.com/nazim98/amal-tech-repair/assets/118235122/358952c2-2ff4-434c-bafb-fda98190ac0a)  ![individual chat page 2](https://github.com/nazim98/amal-tech-repair/assets/118235122/86ef45c5-cb82-4de0-b177-860486d20d67)
      
 -1.3 edit_service page
    - you can edit your service here
@@ -123,7 +124,7 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 -1.4 explore page
    - you can scroll through the services that other users offer.
    
--1.5 home page
+-1.5 home chat page
    - a page that shows all users of this app
    - you can chat with the user that you want to deal.
 
