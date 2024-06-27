@@ -90,28 +90,28 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 ## Packages and Plugins
 
 **Cupertino Icons**
-The `cupertino_icons` package provides the Cupertino Icons font, which is used for iOS-style icons. This package is useful for maintaining a consistent look and feel for iOS applications.
+- The `cupertino_icons` package provides the Cupertino Icons font, which is used for iOS-style icons. This package is useful for maintaining a consistent look and feel for iOS applications.
 
 **Firebase Core**
-The `firebase_core` package is the foundational Firebase library for Flutter. It is necessary for initializing Firebase services in the application, providing a base to integrate various Firebase features.
+- The `firebase_core` package is the foundational Firebase library for Flutter. It is necessary for initializing Firebase services in the application, providing a base to integrate various Firebase features.
 
 **Intl**
-The `intl` package is used for internationalization and localization. It helps in formatting dates, numbers, and messages according to different locales, ensuring the application can support multiple languages and regional formats.
+- The `intl` package is used for internationalization and localization. It helps in formatting dates, numbers, and messages according to different locales, ensuring the application can support multiple languages and regional formats.
 
 **Cloud Firestore**
-The `cloud_firestore` package allows the application to interact with the Cloud Firestore database. It is a scalable, flexible database from Firebase, ideal for storing and syncing data between users in real-time.
+- The `cloud_firestore` package allows the application to interact with the Cloud Firestore database. It is a scalable, flexible database from Firebase, ideal for storing and syncing data between users in real-time.
 
 **Provider**
-The `provider` package is a popular state management solution for Flutter applications. It offers a way to manage and propagate state changes efficiently across the widget tree.
+- The `provider` package is a popular state management solution for Flutter applications. It offers a way to manage and propagate state changes efficiently across the widget tree.
 
 **Firebase Authentication**
-The `firebase_auth` package enables Firebase Authentication in the application. It provides various methods for user authentication, including email/password, social media logins, and more.
+- The `firebase_auth` package enables Firebase Authentication in the application. It provides various methods for user authentication, including email/password, social media logins, and more.
 
 **Flutter Launcher Icons Configuration**
-This section configures the `flutter_launcher_icons` package. It specifies the icon settings for both Android and iOS platforms, including the path to the image asset and the minimum SDK version for Android.
+- This section configures the `flutter_launcher_icons` package. It specifies the icon settings for both Android and iOS platforms, including the path to the image asset and the minimum SDK version for Android.
 
 **Flutter Lints**
-The `flutter_lints` package includes a set of recommended linting rules to encourage good coding practices. These rules help maintain code quality and readability by enforcing consistent coding standards.
+- The `flutter_lints` package includes a set of recommended linting rules to encourage good coding practices. These rules help maintain code quality and readability by enforcing consistent coding standards.
 
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
