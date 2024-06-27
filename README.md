@@ -112,7 +112,7 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 -1.1 advertise page
    -page for advertise user's services
-   
+   ![advertise page before fill in](https://github.com/nazim98/amal-tech-repair/assets/118235122/acc030ce-28ef-4744-a74f-b3cb8043b968)
 
 -1.2 chat page
    - you can send & receive a message on this page
