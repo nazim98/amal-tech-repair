@@ -124,17 +124,26 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 -1.3 edit_service page
    - you can edit your service here
 
+     ![edit service](https://github.com/nazim98/amal-tech-repair/assets/118235122/b51b4794-4123-4823-9efd-d8551cb38340)
+
 -1.4 explore page
    - you can scroll through the services that other users offer.
+
+     ![explore page](https://github.com/nazim98/amal-tech-repair/assets/118235122/a8c017b9-568c-4550-b691-e83df72e8de5)
+
    
 -1.5 home chat page
    - a page that shows all users of this app
    - you can chat with the user that you want to deal.
+   
+   ![chat page that show all users](https://github.com/nazim98/amal-tech-repair/assets/118235122/5b80a378-2e4c-458d-bf6f-162d3ae4e53f)  
 
 -1.6 login page
    - a default page that will be shown when you open the app
    - there are two textfields: 1. email 2. password, which will match with the existing account in the firebase authentication
    - if you do not have an account, you can click register now
+
+     ![login page](https://github.com/nazim98/amal-tech-repair/assets/118235122/77ae8e76-c87f-4e0b-ae08-f30bfc360f9e)
 
 -1.7 main page
    - a page that shows all important page likes:
@@ -144,18 +153,27 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
      -4.me page
      -5.settings page
 
+   ![main page](https://github.com/nazim98/amal-tech-repair/assets/118235122/4f67b52a-e1fb-422a-b304-c4f731c09104)
+
 -1.8 me page
    - show all your services
    - each service can be edited by clicking the pen icon
    - each service can be deleted by long pressing the service bar
+
+   ![me](https://github.com/nazim98/amal-tech-repair/assets/118235122/efa327f5-0bcb-4274-a7e4-765744df4986)
 
 -1.9 register page
    - you can register your email and password here
    - the data will be kept in a database
    - you can go to the login page if you have the account
 
+     ![register page](https://github.com/nazim98/amal-tech-repair/assets/118235122/292e751b-bf8a-4576-a634-76785c2a4348)
+
 -1.10 settings page
    - you can toggle mode from light to dark and vice versa.
+
+     ![settings page light mode](https://github.com/nazim98/amal-tech-repair/assets/118235122/e74aa27b-84fc-4364-b452-6e02bbb3737f)
+![settings page dark mode](https://github.com/nazim98/amal-tech-repair/assets/118235122/a45b5248-f8c8-4952-9d0b-cd1c5f615d4b)
 
 **2. Widgets**
 
