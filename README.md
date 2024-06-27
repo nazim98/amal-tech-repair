@@ -11,7 +11,7 @@ Welcome to the GitHub repository for the CSCI 4311 final assessment on flutter m
 | Name                            | Matric Number | Assigned Tasks                                            | Participation |
 |---------------------------------|---------------|-----------------------------------------------------------|---------------|
 | Wan Mohd Nazim Bin Wan Muhamad Saidin | 2114261 | logo, explore page, advertise page, me page, edit service page, database for service, CRUD for service | 100% |
-| Muhammad Khairunas bin Noorizam | 2112383 | ogin page, register page, authentication, components, compile code, troubleshooting | 100%          |
+| Muhammad Khairunas bin Noorizam | 2112383 | login page, register page, authentication, components, compile code, troubleshooting | 100%          |
 |    Ezhad Eminuddin bin Karim    |  2218327    | chat page, home page, setting page, chat service, theme of the app | 100%          |
 
 ### Table of Contents:
