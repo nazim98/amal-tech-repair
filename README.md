@@ -109,7 +109,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
-
 -1.1 advertise page
    -fill in the service form
    -submit the service form
