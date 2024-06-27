@@ -88,25 +88,24 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
+
 -1.1 advertise page
    -fill in the service form
    -submit the service form
    -the form will go to explore page & me page
+   
 -1.2 chat page
    - you can send & receive a message on this page
-   - 
+     
 -1.3 edit_service page
    - you can edit your service here
-   - 
 
 -1.4 explore page
    - you can scroll through the services that other users offer.
-   - 
    
 -1.5 home page
    - a page that shows all users of this app
    - you can chat with the user that you want to deal.
-   - 
 
 -1.6 login page
    - a default page that will be shown when you open the app
@@ -125,7 +124,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
    - show all your services
    - each service can be edited by clicking the pen icon
    - each service can be deleted by long pressing the service bar
-   - 
 
 -1.9 register page
    - you can register your email and password here
@@ -134,7 +132,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 -1.10 settings page
    - you can toggle mode from light to dark and vice versa.
-   -
 
 **2. Widgets**
 
@@ -144,7 +141,6 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 -2.custom button
    - button that has been used on certain pages
-   -
 
 -4. custom card
    - a container that shows user services
