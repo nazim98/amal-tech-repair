@@ -109,11 +109,11 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 ## Screen Navigation and Widgets
 **1. Screen Navigation**
+
 -1.1 advertise page
-   -fill in the service form
-   -submit the service form
-   -the form will go to explore page & me page
+   -page for advertise user's services
    
+
 -1.2 chat page
    - you can send & receive a message on this page
      
@@ -164,6 +164,7 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 
 -4. custom card
    - a container that shows user services
+     
 -5.my drawer
    - a drawer that can be opened by clicking the drawer icon
    - you can sign out here
