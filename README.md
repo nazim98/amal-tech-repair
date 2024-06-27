@@ -102,6 +102,8 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 1.5 Me Page
 
 ## Sequence Diagram
+![image](https://github.com/nazim98/amal-tech-repair/assets/134998873/a8598bbe-6413-4ecf-9d76-a4333ce52873)
+
 
 ## References
 
