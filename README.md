@@ -87,6 +87,19 @@ The Amal Tech Repair app aims to provide a hassle-free repair experience by offe
 - Ensures secure user authentication and data privacy through industry-standard security measures.
 
 ## Screen Navigation and Widgets
+**1. Screen Navigation
+1.1 Login
+   1.1.1
+1.2 Explore Page
+   
+1.3 Advertise Page
+
+1.4 Chat Page
+   1.4.1 home chat page
+      1.4.1.1 Drawer 
+         1.4.1.1.1 Setting Page
+   1.4.2 individual chat page
+1.5 Me Page
 
 ## Sequence Diagram
 
